@@ -256,38 +256,38 @@ EcoTrack dirancang sebagai solusi digital RT/RW modern yang berorientasi pada **
 
 | Dashboard Admin | Dashboard Warga |
 |:---:|:---:|
-| ![Dashboard Admin](assets/form_UI/dashboard_admin.jpg) | ![Dashboard Warga](assets/form_UI/dashboard_warga.jpg) |
+| ![Dashboard Admin](assets/form_UI/dashboard_admin.jpeg) | ![Dashboard Warga](assets/form_UI/dashboard_warga.jpeg) |
 | **Dashboard pengelolaan admin** | **Dashboard informasi warga** |
 
 ### Data Warga
 
 | Data Warga Admin | Daftar Warga |
 |:---:|:---:|
-| ![Data Warga Admin](assets/form_UI/data_warga_admin.jpg) | ![Daftar Warga](assets/form_UI/daftar_warga.jpg) |
+| ![Data Warga Admin](assets/form_UI/data_warga_admin.jpeg) | ![Daftar Warga](assets/form_UI/daftar_warga.jpeg) |
 | **Kelola data warga oleh admin** | **Daftar warga yang dapat dilihat** |
 
 ### Jadwal Ronda
 
 | Kelola Jadwal Ronda | Jadwal Ronda Warga |
 |:---:|:---:|
-| ![Kelola Jadwal Ronda](assets/form_UI/kelola_jadwal_admin.jpg) | ![Jadwal Ronda](assets/form_UI/jadwal_ronda.jpg) |
+| ![Kelola Jadwal Ronda](assets/form_UI/kelola_jadwal_admin.jpeg) | ![Jadwal Ronda](assets/form_UI/jadwal_ronda.jpeg) |
 | **Manajemen jadwal ronda oleh admin** | **Informasi jadwal ronda warga** |
 
 ### Laporan Warga
 
 | Laporan Warga Admin | Laporan Warga |
 |:---:|:---:|
-| ![Laporan Warga Admin](assets/form_UI/laporan_warga_admin.jpg) | ![Laporan Warga](assets/form_UI/laporan_warga.jpg) |
+| ![Laporan Warga Admin](assets/form_UI/laporan_warga_admin.jpeg) | ![Laporan Warga](assets/form_UI/laporan_warga.jpeg) |
 | **Pengelolaan laporan oleh admin** | **Pengiriman laporan oleh warga** |
 
 ### Agenda Kegiatan
 
 | Agenda Admin | Agenda Warga |
 |:---:|:---:|
-| ![Agenda Admin](assets/form_UI/agenda_kegiatan_admin.jpg) | ![Agenda Warga](assets/form_UI/agenda_kegiatan_warga.jpg) |
+| ![Agenda Admin](assets/form_UI/agenda_kegiatan_admin.jpeg) | ![Agenda Warga](assets/form_UI/agenda_kegiatan_warga.jpeg) |
 | **Kelola agenda kegiatan oleh admin** | **Agenda kegiatan untuk warga** |
 
 ### Profil Pengguna
 
-![Profil Warga](assets/form_UI/profile_warga.jpg)
+![Profil Warga](assets/form_UI/profile_warga.jpeg)
 *Halaman profil pengguna untuk melihat dan memperbarui data*
